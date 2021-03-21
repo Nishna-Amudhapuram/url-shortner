@@ -1,0 +1,3 @@
+import pyshorteners
+link = "https://github.com/Nishna-Amudhapuram"
+print(pyshorteners.Shortener().clckru.short(link))
